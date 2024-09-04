@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845664233515",
+    "project_id": "ltddncdoan-1ccc5",
+    "storage_bucket": "ltddncdoan-1ccc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845664233515:android:e612f92b948a241dbba26e",
+        "android_client_info": {
+          "package_name": "com.example.ltddnc_doan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWk9Ps_EuYJ1M3DYtO7s6nsL_07BuK3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
